@@ -11,8 +11,7 @@ const connectDB = async () => {
 };
 
 module.exports = connectDB;
-//
-//
+
 // chimannabuike23
 // GhjBqHspZAiIpXdX
 // mongodb+srv://chimannabuike23:GhjBqHspZAiIpXdX@cluster0.jkxvi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
